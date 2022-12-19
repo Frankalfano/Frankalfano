@@ -2,7 +2,7 @@
 - I’m interested in Machine Learning and Deep Learning in the financial services industry
 - I’m currently finishing a M.S in Computer Science and Information Technology at Sacred Heart University
 - I’m looking to collaborate on Quantitative Research in the Finance space
-- How to reach me: Frankalfano19@gmail.com
+- How to reach me: LinkedIn -> https://www.linkedin.com/in/frank-alfano/
 
 <!---
 Frankalfano/Frankalfano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
